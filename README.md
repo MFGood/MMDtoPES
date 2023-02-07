@@ -29,5 +29,5 @@ From there, go about posing your model as normal, then when it comes time to ren
 *Except it'll say "PESify MMD vertex groups"*<br><br>
 Assigns all face and head groups to the sk_head group; hair and head accessories must still be manually assigned. Also reassigns hand groups; hands must be separated out into separate meshes and exported as separate models to properly function. Any other non-standard vertex groups (accessories, tails, animal ears etc.) may need to be manually assigned.
 
-Booby Jiggles version assigns weight of each boob to the motion of the thigh by 0.1 by default, though you can configure this in the panel in the bottom right:<br>
+Booby Jiggles version assigns weight of each boob to the motion of the thigh by 0.1 by default, though you can configure this in the panel in the bottom left:<br>
 ![image](https://user-images.githubusercontent.com/98861097/217380270-02b5a4b6-fce9-439a-b210-8f072385e486.png)<br>
